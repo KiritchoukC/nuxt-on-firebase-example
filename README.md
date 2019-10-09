@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
@@ -17,6 +17,14 @@ $ yarn start
 
 # generate static project
 $ yarn run generate
+
+# firebase start
+$ yarn build:firebase
+$ yarn start:firebase
+
+# firebase deploy
+$ yarn build:firebase
+$ yarn deploy
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
