@@ -1,6 +1,6 @@
 # nuxt-on-firebase
 
-> Project for dev.to tutorial on how to host a nuxt app on firebase
+> Project for [dev.to tutorial on how to host a nuxt app on firebase](https://dev.to/kiritchoukc/deploy-nuxt-on-firebase-4ad8) 
 
 ## Build Setup
 
